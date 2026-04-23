@@ -1,4 +1,3 @@
-```
 erDiagram
 
     STUDENT {
@@ -44,4 +43,3 @@ erDiagram
 
     STUDENT ||--o{ SCORE : receives
     COURSE  ||--o{ SCORE : evaluates
-```
